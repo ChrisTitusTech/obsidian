@@ -9,3 +9,5 @@ Macos edit
 now in the obisidian  git folder
 
 new
+
+mac os test 2
