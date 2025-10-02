@@ -11,3 +11,5 @@ now in the obisidian  git folder
 new
 
 mac os test 2
+
+linux edit
