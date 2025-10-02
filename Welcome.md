@@ -7,3 +7,5 @@ When you're ready, delete this note and make the vault your own.
 Macos edit
 
 now in the obisidian  git folder
+
+new
