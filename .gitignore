@@ -1,0 +1,8 @@
+# Ignore volatile UI-related state
+.obsidian/workspace.json
+.obsidian/app.json
+.trash/
+
+# OS generated files
+.DS_Store
+Thumbs.db
